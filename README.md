@@ -19,16 +19,25 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 * 📚 Sempre buscando aprender novas tecnologias
 
 ---
+## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tecnologias e ferramentas
+### 💻 Linguagens
 
-### Linguagens
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
 
-`Java` `Python`  `SQL`
+### 🧰 Ferramentas e Tecnologias
 
-### Tecnologias e ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
+</p>
 
-`Git` `GitHub` `VS Code` `JavaFX` `MySQL`  `Microsoft Azure` 
+### 📊 Dados, Cloud e IA
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,pandas" />
+</p>
 
 ---
 
