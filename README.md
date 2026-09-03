@@ -38,7 +38,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,pandas" />
- <img src="sua-nova-imagem-claude-com-fundo.png" width="48" height="48" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
 
 ---
