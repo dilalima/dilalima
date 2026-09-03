@@ -38,7 +38,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,pandas" />
-  <img src="caminho-do-seu-icone-claude.png" alt="Claude AI" style="width: 48px; height: 48px; background-color: #242938; border-radius: 12px; padding: 8px; box-sizing: border-box;" />
+ <img src="sua-nova-imagem-claude-com-fundo.png" width="48" height="48" />
 </p>
 
 ---
