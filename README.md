@@ -24,7 +24,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 ### 💻 Linguagens
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🧰 Ferramentas e Tecnologias
