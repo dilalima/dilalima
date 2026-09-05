@@ -45,11 +45,17 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 
 ## 📌 Projetos
 
-### 💈 Sistema de Barbearia
+### 💈 Sistema de Gerenciamento de Barbearia
+Sistema robusto para o gerenciamento completo de uma barbearia.
 
-Sistema desenvolvido em Java para gerenciamento de uma barbearia.
+**Tecnologias:** Java, POO, MySQL
 
-**Tecnologia:** Java
+---
+
+### 🚛 LogiData Enterprise
+Sistema inteligente de gestão e otimização de rotas corporativas.
+
+**Tecnologias:** Python, Pandas, FastAPI, CustomTkinter
 ---
 
 ## 📚 Atualmente estudando
@@ -60,7 +66,6 @@ Sistema desenvolvido em Java para gerenciamento de uma barbearia.
 * SQL e bancos de dados
 * Data Science
 * Inteligência Artificial
-* Desenvolvimento de sistemas
 * Arquitetura de software
 
 ---
