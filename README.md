@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Dileã Lima
 
-### 💻 Desenvolvedor de Software | Java | Python | SQL
+### 💻 Desenvolvedor de Software | Java | Python 
 
 Sou profissional de tecnologia em formação, apaixonado por desenvolvimento de software e pela criação de soluções que resolvem problemas reais.
 
-Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de dados, desenvolvimento de sistemas, dados e Inteligência Artificial.**
+Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de dados, desenvolvimento de sistemas,APIs, dados e Inteligência Artificial.**
 
 ---
 
@@ -13,8 +13,8 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 * 🎓 Formação em Gestão de Tecnologia da Informação
 * 💻 Foco em desenvolvimento de software
 * ☕ Estudando Java e Programação Orientada a Objetos
-* 🐍 Estudando Python e análise de dados
-* 🗄️ Interesse em bancos de dados e SQL
+* 🐍 Estudando Python e Análise de dados
+* 🗄️ Interesse em Backend e Automações
 * 🤖 Explorando Inteligência Artificial e Data Science
 * 📚 Sempre buscando aprender novas tecnologias
 
@@ -63,10 +63,11 @@ Sistema inteligente de gestão e otimização de rotas corporativas.
 * Java
 * Python
 * Pandas
+* SpringBoot
 * SQL e bancos de dados
 * Data Science
 * Inteligência Artificial
-* Arquitetura de software
+  
 
 ---
 
