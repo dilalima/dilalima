@@ -4,7 +4,7 @@
 
 Sou profissional de tecnologia em formação, apaixonado por desenvolvimento de software e pela criação de soluções que resolvem problemas reais.
 
-Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de dados, desenvolvimento de sistemas,APIs, dados e Inteligência Artificial.**
+Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de dados, desenvolvimento de sistemas, APIs, dados e Inteligência Artificial.**
 
 ---
 
@@ -45,10 +45,15 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 
 ## 📌 Projetos
 
+### 💰AuraBank Sistema Bancario
+Sistema bancario para gerenciamento de conta,  transferência, saque e depósito.
+
+**Tecnologias:** **Java, JavaSwing, poo**
+
 ### 💈 Sistema de Gerenciamento de Barbearia
 Sistema robusto para o gerenciamento completo de uma barbearia.
 
-**Tecnologias:** Java, POO, MySQL
+**Tecnologias:** **Java, POO, MySQL**
 
 ---
 
