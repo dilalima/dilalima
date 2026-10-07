@@ -48,7 +48,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 ### 💰AuraBank Sistema Bancario
 Sistema bancario para gerenciamento de conta,  transferência, saque e depósito.
 
-**Tecnologias:** **Java, JavaSwing, poo**
+**Tecnologias:** **Java, JavaSwing, POO**
 
 ### 💈 Sistema de Gerenciamento de Barbearia
 Sistema robusto para o gerenciamento completo de uma barbearia.
