@@ -112,4 +112,18 @@ Sistema voltado à gestão e otimização de processos logísticos, integrando d
 
 ## 🎯 Objetivo Profissional
 
-Construir uma carreira sólida em
+Construir uma carreira sólida em Tecnologia da Informação, com foco em **Desenvolvimento Backend, Engenharia de Software e soluções orientadas a dados**.
+
+Busco oportunidades para aplicar meus conhecimentos, contribuir com projetos reais e evoluir profissionalmente como desenvolvedor.
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** [Dileã Lima](https://www.linkedin.com/in/dile%C3%A3-lima-56289a236/)
+
+📂 **GitHub:** [@dilalima](https://github.com/dilalima)
+
+---
+
+### 🚀 Transformando conhecimento em código e ideias em soluções.
