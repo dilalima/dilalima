@@ -38,6 +38,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Python, bancos de da
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=aws,pandas" />
+ <img src="https://skillicons.dev/icons?i=aws,mysql" />
 
 </p>
 
