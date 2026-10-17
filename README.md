@@ -37,13 +37,27 @@ Busco desenvolver soluções eficientes, aplicando boas práticas de programaç�
   <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,spring" alt="Git, GitHub, VS Code, Maven e Spring" />
 </p>
 
-### 📊 Dados, Cloud e IA
+
+<h3>🤖 Inteligência Artificial</h3>
+
+<p align="left">
+  <a href="https://openai.com/codex/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  </a>
+  &nbsp;
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  </a>
+</p>
+
+
+### 📊 Dados e Cloud 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,aws" alt="MySQL e AWS" />
 </p>
 
-**Outras tecnologias em estudo:** Pandas, FastAPI, SQL e Inteligência Artificial.
+**Outras tecnologias em estudo:** Pandas, FastAPI e SQL.
 
 ---
 
