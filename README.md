@@ -61,52 +61,39 @@ Busco desenvolver soluções eficientes, aplicando boas práticas de programaç�
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🏦 AuraBank — Sistema Bancário
+### 💰 FinanceAI — Assistente Financeiro Inteligente
 
-Sistema bancário desenvolvido em Java, com foco em Programação Orientada a Objetos, gerenciamento de contas e operações financeiras simuladas.
+Sistema web para gerenciamento e análise de finanças pessoais, com dashboard interativo, controle de receitas e despesas, relatórios financeiros e assistente baseado em Inteligência Artificial.
 
-**Funcionalidades:**
-- Cadastro e gerenciamento de clientes
-- Operações de depósito e saque
-- Transferências entre contas
-- Consulta de saldo e extrato
-- Aplicação de regras de negócio
+**Funcionalidades:** Dashboard, movimentações financeiras, relatórios, planejamento financeiro e análise inteligente de dados.
 
-**Tecnologias:** Java, Java Swing e POO.
+**Tecnologias:** Python, FastAPI, MySQL, SQLAlchemy, JavaScript, HTML5, CSS3 e Chart.js.
 
-**Em evolução:** Spring Boot, APIs REST e MySQL.
+### 🦷 Sistema de Agendamento Odontológico
 
-🔗 [Ver projeto no GitHub](https://github.com/dilalima/AuraBank)
+Sistema web desenvolvido para otimizar o gerenciamento de agendamentos e procedimentos odontológicos, facilitando a organização dos atendimentos e a administração de horários de uma clínica.
 
----
+**Funcionalidades:** Gerenciamento de agendamentos, procedimentos e organização da agenda de atendimentos.
+
+**Tecnologias:** Python, FastAPI, MySQL, AWS e desenvolvimento web.
+
+### 💳 AuraBank — Sistema Bancário
+
+Aplicação bancária desenvolvida em Java, com funcionalidades de gerenciamento de contas, autenticação, depósitos, saques, transferências e histórico de movimentações.
+
+**Tecnologias:** Java, Java Swing e Programação Orientada a Objetos.
 
 ### 💈 Sistema de Gerenciamento de Barbearia
 
-Sistema para gerenciamento de processos e atividades de uma barbearia, com foco em organização e aplicação de regras de negócio.
+Sistema para gerenciamento de operações de uma barbearia, com foco na organização e administração do negócio.
 
-**Funcionalidades previstas:**
-- Cadastro de clientes
-- Gerenciamento de serviços
-- Controle de agendamentos
-- Organização de informações
-- Gerenciamento de registros
+**Tecnologias:** Java, Programação Orientada a Objetos e MySQL.
 
-**Tecnologias:** Java, POO e MySQL.
+### 🚛 LogiData Enterprise
 
----
-
-### 🚛 LogiData Enterprise — Gestão Logística Inteligente
-
-Sistema voltado à gestão e otimização de processos logísticos, integrando desenvolvimento de software e análise de dados.
-
-**Funcionalidades previstas:**
-- Gerenciamento de informações logísticas
-- Análise de dados operacionais
-- Otimização de rotas
-- Visualização de informações
-- Automação de processos
+Sistema inteligente voltado à gestão logística e otimização de rotas corporativas, utilizando recursos de programação e análise de dados.
 
 **Tecnologias:** Python, Pandas, FastAPI e CustomTkinter.
 
